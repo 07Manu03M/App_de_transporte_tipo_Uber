@@ -202,6 +202,6 @@ Adicionales: `429 Too Many Requests` para rate-limiting; `500 Internal Server Er
 ---
 
  * GRACIAS :D
- * TRABAJO ECHO X MANUEL UWU
+ * TRABAJO HECHO X MANUEL UWU
 
 
